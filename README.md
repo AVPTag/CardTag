@@ -15,9 +15,9 @@ AVPTag is a way to run Gorilla Tag on a Google Cardboard. Here is how.
     
 2.  When an update is released, your Windows device will be asked to update it on Steam.
     
-3.  Your Android will stream the content over to your Google Cardboard with "splitting" the game in half and making it look like a Google Cardboard app.
+3.  Your Android/iOS will stream the content over to your Google Cardboard with "splitting" the game in half and making it look like a Google Cardboard app.
 
-4.  Your Android will receive the "message" from your Windows device and install it
+4.  Your Android/iOS will receive the "message" from your Windows device and install it
 
 5.  Enjoy CardTag!
 
