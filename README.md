@@ -33,7 +33,11 @@ An **optional** macOS device to sideload .ipa
 
 A Mobile Device that has .ipa or .apk support. 
 
-A Google Cardboard -- any type of Google Cardboard. 
+A Google Cardboard -- any type of Google Cardboard. You do NOT need your phone's camera, so you can block that off if you would like. 
+
+A Google Cardboard STRAP -- This is required so you can attach controllers to bluetooth
+
+At the **bare minimum** you need at least 2 external cameras -- You can't use your default phone camera :|
 
 # Setup
 
