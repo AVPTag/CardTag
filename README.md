@@ -35,9 +35,9 @@ A Mobile Device that has .ipa or .apk support.
 
 A Google Cardboard -- any type of Google Cardboard. You do NOT need your phone's camera, so you can block that off if you would like. 
 
-A Google Cardboard STRAP -- This is required so you can attach controllers to bluetooth
+A Google Cardboard STRAP -- This is required so you can attach controllers to bluetooth and not need to hold the VR
 
-At the **bare minimum** you need at least 2 external cameras -- You can't use your default phone camera :|
+Cameras are still being tested for requirement
 
 # Setup
 
