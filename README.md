@@ -9,7 +9,7 @@ Jump to: https://github.com/AVPTag/CardTag/blob/main/README.md#how-to-automatica
 
 Jump to: https://github.com/AVPTag/CardTag/blob/main/README.md#package-information
 
-AVPTag is a way to run Gorilla Tag on a Google Cardboard. Here is how.
+CardTag is a way to run Gorilla Tag on a Google Cardboard. Here is how.
 
 1.  Every time a Gorilla Tag Steam VR (PC-VR) update comes out, our app will detect that.
     
