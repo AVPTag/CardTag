@@ -27,7 +27,7 @@ Our GitHub repo comes with tools to help you install CardTag super fast. Here is
 
 # Requirements
 
-A Windows Device with at least 5 GB free (To install Gorilla Tag) and MUST not be arm windows (only x86_64, 64 bit, or 32 bit, recommended to use 64 bit)
+A Windows Device with at least 5 GB free (To install Gorilla Tag) and REQUIRES 64 bit.
 
 An **optional** macOS device to sideload .ipa
 
@@ -44,99 +44,19 @@ Cameras are still being tested for requirement
 Windows:
 
  1. Install git from [https://git-scm.com/downloads/win] or Install in Powershell with ```winget install --id Git.Git -e --source winget```
- 2. Run this command: ```mkdir "%USERPROFILE%\AVPTag" && cd "%USERPROFILE%\AVPTag" && git clone https://github.com/AVPTag/CardTag.git```
+ 2. Run this command: ```mkdir "%USERPROFILE%\CardTag" && cd "%USERPROFILE%\CardTag" && git clone https://github.com/AVPTag/CardTag.git```
  3. Install Steam if not already done.
  4. Log in to Steam if not already done.
  5. Purchase Gorilla Tag if not already done
  6. Download & Install Gorilla Tag if not already done.
- 7. Install ADB
- 8. Continue the rest of the set up below
+ 7. Install ADB if you are using Android.
+ 8. Install iTunes from https://secure-appldnld.apple.com/itunes12/093-86906-20251014-EF746ED8-8BD0-4139-9834-5C6C716B6F9F/iTunes64Setup.exe if you are using iOS
+ 9. Install AltServer from https://cdn.altstore.io/file/altstore/altinstaller.zip if you are using iOS
+ 10. Check the set up at the end of this .md to learn how to set it up.
+ 11. Contine the rest of the set up below.
 
+Mobile Device:
 
+iOS:
 
-# How to Update Properly
-
-Windows:
-
- 1. Check Steam before you play Gorilla Tag.
- 2. If it says "Update", press the button and install it.
- 3. Continue the rest of the update process below.
-
-Mac & Windows:
-
- 1. Make sure AVPTAGCLI is open.
- 2. Continue the rest of the update process below.
-
-Mac:
-
- 1. In AVPTAGCLI, type "settings"
- 2. A menu will appear. Press right arrow, down arrow, and you should be selected on "Auto Update". Press Enter.
- 3. Continue the rest of the update process below.
-
-Windows:
-
- 1. Go to Steam > Library > Gorilla Tag and press the settings icon and press Properties.
- 2. Go to the "Updates" tab.
- 3. Under automatic updates, press the dropdown.
- 4. Press "Immediately download updates"
- 5. Continue the rest of the update process below.
-
-Google Cardboard:
-
- 1. Launch AVPTag from the Home View (or Home Screen)
- 2. When the menu appears, press "Update Sync Settings"
- 3. You will now get automatic updates!
-
-
-# How to automatically sign the application every 6 days
-
-Mac or Windows:
-
- 1. On one of the two above, open AVPTAGCLI.
- 2. Type "settings" and press Enter
- 3. You should be selected to AutoSign. Press Enter.
- 4. Continue the rest of the signing process below.
-
-Google Cardboard:
-
- 1. Launch AVPTag from the Home View (or Home Screen)
- 2. When the menu appears, press "Update Sync Settings"
- 3. Press "Open Gorilla Tag"
- 4. After you load into Gorilla Tag, you can close the app.
- 5. Your AVPTag will now automatically sign itself as long as AVPTAGCLI runs in the background on your Mac (at the least)
-
-# Package Information
-
-Bundle ID: com.hopefullty.avptag
-
-Open Source: false
-
-Age Rating: 13+ to use the Steam version, however this is not enforced as anyone can build our programs.
-
-Category: Gaming
-
-Subcategory: Virtual Reality
-
-Platform: Built for visionOS, but streams from Windows.
-
-License: Proprietary (Personal Project)
-
-Region Availability: Anywhere that does not enforce Steam
-
-Multiplayer/Online Gaming: Yes
-
-Release Status: [==========7%==========]
-
-Half-Finished (https://avptag.github.io/)[AVPTag Website] homepage, Finished README.md, Finished Concept
-
-Next Steps: AVPTAGCLI, Xcode project, Update Website FULLY, Test #1
-
-Potential Next Steps: Bug Fix #1, Test #2 (looped)
-
-Developer Notes: This is a solo, fan-made project — not affiliated with or endorsed by Another Axiom.
-
-Developer Notes continued: Just because it says Potential Next Steps and Tests and no updates on our project does NOT mean that we will not update.
-
-Leaks: We are planning to add "controllers" via mobile, so that you can Launch Gorilla Tag from your mobile device in case you can't launch it regularly. This should work with Android and iOS.
-
-Copyright © Hopefullty Global Records 2025. All Rights Reserved.
+ 1. 
